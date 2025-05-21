@@ -1,8 +1,12 @@
 fileFormatVersion: 2
 guid: c8f05e53cdec462f8ff1bf01a68b0bee
+<<<<<<< HEAD
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+timeCreated: 1747822549
+>>>>>>> CreateStatusSystem
